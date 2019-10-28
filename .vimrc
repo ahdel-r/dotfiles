@@ -66,3 +66,6 @@ set nu
 set hlsearch
 
 set nowrap
+
+" Blockwise visual mode by default
+set virtualedit=block
